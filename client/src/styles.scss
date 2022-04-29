@@ -14,8 +14,7 @@ label.xng-breadcrumb-trail {
 .xng-breadcrumb-separator {
     padding:  0 0;
 }
-/* Importing Bootstrap SCSS file. */
-@import "~bootstrap/scss/bootstrap";
 
-/* Importing Datepicker SCSS file. */
-@import "~ngx-bootstrap/datepicker/bs-datepicker";
+.StripeElement {
+    height: 3.125em;
+}
